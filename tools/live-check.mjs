@@ -1,6 +1,6 @@
 /* 验证线上 Pages 站点真的能用（不只是返回 200） */
 import { chromium } from 'playwright-core';
-const URL_ = 'https://4choor3.github.io/sql-quest/';
+const URL_ = 'https://u2tt.github.io/sql-quest/';
 const b = await chromium.launch({ channel: 'chrome', headless: true });
 const p = await (await b.newContext({ viewport: { width: 1440, height: 900 } })).newPage();
 const errs = [];

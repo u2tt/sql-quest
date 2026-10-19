@@ -26,10 +26,10 @@
     "sql-formatter": "^15.9.0",
     "sql.js": "1.10.3"
   },
-  "homepage": "https://4choor3.github.io/sql-quest/",
+  "homepage": "https://u2tt.github.io/sql-quest/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/4choor3/sql-quest.git"
+    "url": "https://github.com/u2tt/sql-quest.git"
   },
   "license": "MIT"
 }

@@ -15,7 +15,7 @@
 #    dist/sql-quest.html 双击打开，依赖全在里面
 
 # 2. 在线用
-#    https://4choor3.github.io/sql-quest/
+#    https://u2tt.github.io/sql-quest/
 
 # 3. 源码版（想改题库时用）
 npm run serve        # → http://127.0.0.1:8123
